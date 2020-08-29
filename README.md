@@ -1,0 +1,2 @@
+# SeConeOS
+İsletim sistemi
